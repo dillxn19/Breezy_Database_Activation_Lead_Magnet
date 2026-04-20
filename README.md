@@ -1,36 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Dillan Haran
 
-## Getting Started
+Breezy Hiring Team
 
-First, run the development server:
+Technical Assessment
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+20 April 2026
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Database Reactivation Prototype Submission
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Thank you for the opportunity to build this prototype. I spent the allotted time developing a Next.js application focused on database reactivation. Recovering dormant leads is one of the highest value activities for solo service professionals. The application allows users to simulate uploading a spreadsheet of past clients and immediately calculates the potential recovered revenue using raw numbers. It then demonstrates a live feed of the Breezy assistant running parallel outreach to multiple contacts while automatically logging successful bookings and opt outs. You can interact with the live deployment on Vercel at the link provided below. I have also included the link to the GitHub repository which contains the full project code and the development transcript as requested. I look forward to discussing the architecture and potential future iterations with the team.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Vercel Deployment Link: https://breezy-database-activation-lead-mag.vercel.app/
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+GitHub Repository Link: https://github.com/dillxn19/Breezy_Database_Activation_Lead_Magnet
